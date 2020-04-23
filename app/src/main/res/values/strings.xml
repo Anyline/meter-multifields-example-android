@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MultiMeter</string>
+
+    <string name="barcode">Barcode</string>
+    <string name="scanMeter"><![CDATA[
+        Please <b>scan</b> the <b>Meter</b>
+        ]]></string>
+    <string name="scanBarcode"><![CDATA[
+        Please <b>scan</b> the <b>Barcode</b>
+        ]]></string>
+    <string name="result">Result</string>
+    <string name="stoppedByUser">Scan process stopped by user</string>
+    <string name="timeout">Scan process - timeout!</string>
+    <string name="scans">Scans (Counter, Value, Confidence, Timestamp)</string>
+    <string name="counterValues">Counter, Values</string>
+    <string name="exit">Exit</string>
+    <string name="scanAgain">Scan again</string>
+    <string name="stopScanning">Stop scanning</string>
+    <string name="ok">OK</string>
+    <string name="permissionDenied">Permission denied</string>
+    <string name="appWillBeClosed">The App will be closed</string>
+
+</resources>

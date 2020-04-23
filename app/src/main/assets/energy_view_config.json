@@ -1,0 +1,36 @@
+{
+  "camera":{
+    "captureResolution" : "720p"
+  },
+  "flash" : {
+    "mode" : "manual",
+    "alignment" : "top_left"
+  },
+  "viewPlugin" : {
+    "plugin" : {
+      "id" : "METER_ID",
+      "meterPlugin" : {
+      }
+    },
+    "cutoutConfig" : {
+      "style" : "rect",
+      "alignment" : "top_half",
+      "strokeWidth" : 2,
+      "strokeColor" : "FFFFFF",
+      "cornerRadius" : 4,
+      "outerColor" : "000000",
+      "outerAlpha" : 0.5,
+      "feedbackStrokeColor" : "0099FF"
+    },
+    "scanFeedback" : {
+      "style" : "CONTOUR_RECT",
+      "strokeColor" : "0099FF",
+      "fillColor" : "220099FF",
+      "blinkOnResult": true,
+      "beepOnResult": true,
+      "vibrateOnResult": true
+    },
+    "cancelOnResult" : false
+  }
+}
+
